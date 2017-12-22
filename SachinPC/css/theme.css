@@ -267,6 +267,12 @@ ul.banner-social-buttons {
 		margin-bottom:0;
 	}
 }
+
+.logo {
+	height: 30px;
+	width: 30px;
+	margin: auto;
+}
 footer {
 	padding:40px 0;
 	z-index:1;
